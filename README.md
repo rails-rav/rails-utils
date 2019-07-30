@@ -1,3 +1,3 @@
 # README
 
-This report is to manage general utils for online use
+End target of this application is to build rails based website that performs common features.
